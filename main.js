@@ -133,13 +133,7 @@ const moviesArr = [
     posterURL:
       "https://www.torrentbd.com/posters/ug8FrB12ZEMw5AMZcIbaVAYY13070038.jpg",
   },
-  {
-    title: "House of the Dragon",
-    year: 2022,
-    ticketPrice: 380,
-    posterURL:
-      "https://www.torrentbd.com/posters/oUw3f9JJagihLRybyY7P5wYY11198330.jpg",
-  },
+  
   {
     title: "Attorney Woo",
     year: 2022,
